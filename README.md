@@ -1,3 +1,4 @@
 # FrontEnd-Mai-2022
 
-Tere Tulemast!
+Tere Tulemast Koolitusele!
+
